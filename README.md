@@ -10,7 +10,8 @@ The process of image colourization involves converting a black and white image i
 
 <div class="cell markdown" id="pasjVk5WRXMM">
 
-<img src="output demo.gif" />
+<video src="output demo.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 </div>
 
