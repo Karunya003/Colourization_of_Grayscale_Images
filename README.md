@@ -10,10 +10,10 @@ The process of image colourization involves converting a black and white image i
 
 <div class="cell markdown" id="pasjVk5WRXMM">
 
-<video src="output demo.mp4" controls="controls" style="max-width: 730px;">
-</video>
+https://github.com/Karunya003/Colourization_of_Grayscale_Images/assets/85503646/7be70b5e-6d3f-4eb7-9be6-1d3ec1a5188d
 
 </div>
+
 
 <div class="cell markdown" id="Tb-GeIj8Nl6Y">
 
